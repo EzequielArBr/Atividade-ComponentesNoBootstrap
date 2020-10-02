@@ -1,0 +1,32 @@
+.background{
+
+   height: 1000px;
+   background-color: rgb(25, 163, 133);
+   text-align: center;
+
+}
+
+.pictureParameters{
+ 
+   width: 800px;
+   margin-top: 60px;
+
+}
+
+.titleParameters{
+
+   font-family: Arial;
+   font-size: 99px;
+   margin-top: 25px;
+   color: white;
+
+}
+
+.descricao{
+
+   font-family: Arial;
+   font-size: 22px;
+   margin-top: 25px;
+   color: rgba(255, 255, 255, 0.63);
+
+}
